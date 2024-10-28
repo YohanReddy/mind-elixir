@@ -1,0 +1,14 @@
+{
+  "name": "mind-elixir3x-react-18x",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "@mind-elixir/node-menu": "1.0.1",
+    "mind-elixir": "^4.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
